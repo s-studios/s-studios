@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Gopi
 
 <!--
 **s-studios/s-studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I'm a full-stack web application developer, Freelancer, [Mentor and Video Author](https://www.udemy.com/user/gopi-178/)
+💬 You can ask me anything related to C#, JavaScript and Python
 📫You can follow me on [Twitter](https://twitter.com/gopi_sstudio) and [Youtube](https://www.youtube.com/channel/UCweScmv8kTHZzHVffRLBumg). Or send me an email at [programmingwithgopi@gmail.com](programmingwithgopi@gmail.com)
